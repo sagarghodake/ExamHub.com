@@ -27,13 +27,14 @@ This is to familiarize you with the project,
 ---------------------------------------------------------------------------------------------------------------------------
 <h1>User Panel</h1>
 ---------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------
+
  ExamHub.com project belongs to the online examination domain. Basically a dynamic web application. 
  ExamHub.com is cost-effective, scalable way to convert traditional pen and paper based exams to online and paperless mode. 
  Candidate can appear for an exam using any desktop, laptop or mobile device with a browser.
  It can simplify overall examination management and result generation activity.
  ---------------------------------------------------------------------------------------------------------------------------
 ![ExamHubHome](https://user-images.githubusercontent.com/60310009/90327158-5c0ed180-dfae-11ea-9945-774a9427ca61.jpg)
+
 
 Student registration form allows you to register to the ExamHub.com website as a student. The form contains personal information of student such as name, address, DOB, mail-id, contactdetails. Once student get registered then he/she can login easily.
 ---------------------------------------------------------------------------------------------------------------------------
