@@ -2,6 +2,7 @@
 This is to familiarize you with the project,
 #ExamHub.com an ONLINE #EXAMINATION PLATFORM: Basically a web application that provides cost-effective and scalable way to evaluate students reducing overall cost of operation.
 
+---------------------------------------------------------------------------------------------------------------------------
 #TechnologyUsed:
 
 #Type: Dynamic Web Application
@@ -12,6 +13,7 @@ This is to familiarize you with the project,
 
 #Other functionality: SERVLET (Controller Logic), JDBC (DB layer functions)
 
+---------------------------------------------------------------------------------------------------------------------------
 #Accomplishment:
 
  Implemented exam system that can fire question randomly (used Collections method shuffle ()).
@@ -22,6 +24,10 @@ This is to familiarize you with the project,
 
 #mysql #opentowork #javascript #css #javadeveloper #developer #javaproject #fresher #softwaredeveloper #examination #project
 
+---------------------------------------------------------------------------------------------------------------------------
+<h1>User Panel</h1>
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
  ExamHub.com project belongs to the online examination domain. Basically a dynamic web application. 
  ExamHub.com is cost-effective, scalable way to convert traditional pen and paper based exams to online and paperless mode. 
  Candidate can appear for an exam using any desktop, laptop or mobile device with a browser.
@@ -69,6 +75,54 @@ obtained, percentile, accuracy, attempted and report analysis.
 <h1>Admin Panel</h1>
 ---------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------
+Admin Login page and Admin dashboard,
+---------------------------------------------------------------------------------------------------------------------------
+![AdminPanel](https://user-images.githubusercontent.com/60310009/90331240-8ffaee80-dfd0-11ea-84d1-4a1def87258c.png)
+![ExamHub Admin](https://user-images.githubusercontent.com/60310009/90331248-95583900-dfd0-11ea-955b-31ad9e15ef9e.png)
+
+Add category,
+---------------------------------------------------------------------------------------------------------------------------
+![category2](https://user-images.githubusercontent.com/60310009/90332214-c2104e80-dfd8-11ea-93c0-5db68475c445.jpg)
+
+Add section,
+---------------------------------------------------------------------------------------------------------------------------
+![section](https://user-images.githubusercontent.com/60310009/90332228-d2c0c480-dfd8-11ea-844c-35e87a5d2ef5.jpg)
+
+Add test,
+---------------------------------------------------------------------------------------------------------------------------
+![addTest](https://user-images.githubusercontent.com/60310009/90332239-e4a26780-dfd8-11ea-86b8-f664aa522689.jpg)
+
+Add questions,
+---------------------------------------------------------------------------------------------------------------------------
+![AddQuestion](https://user-images.githubusercontent.com/60310009/90332236-de13f000-dfd8-11ea-8562-6cdd1270877c.jpg)
+
+---------------------------------------------------------------------------------------------------------------------------
+<h1>Report Generation</h1>
+---------------------------------------------------------------------------------------------------------------------------
+
+<h3>Student Report</h3>
+---------------------------------------------------------------------------------------------------------------------------
+![studentReport](https://user-images.githubusercontent.com/60310009/90332302-524e9380-dfd9-11ea-99af-219533ab5c98.jpg)
+![Screenshot (301)](https://user-images.githubusercontent.com/60310009/90332321-7e6a1480-dfd9-11ea-9a31-17622b617bc5.png)
+![categoryReport](https://user-images.githubusercontent.com/60310009/90332308-567ab100-dfd9-11ea-8874-79ef3a663cc1.jpg)
+![EmailCertificatate](https://user-images.githubusercontent.com/60310009/90332355-ad808600-dfd9-11ea-8669-407838ae75f9.jpg)
+![setionReport](https://user-images.githubusercontent.com/60310009/90332310-5da1bf00-dfd9-11ea-8865-62a7df22d33c.jpg)
+![TestReport](https://user-images.githubusercontent.com/60310009/90332318-78743380-dfd9-11ea-98ef-0cddd12c396a.jpg)
+![Screenshot (290)](https://user-images.githubusercontent.com/60310009/90332338-95a90200-dfd9-11ea-964f-8d4a1c7ed1f1.png)
+![EmailCertificatate](https://user-images.githubusercontent.com/60310009/90332355-ad808600-dfd9-11ea-8669-407838ae75f9.jpg)
+![Screenshot (303)](https://user-images.githubusercontent.com/60310009/90332361-c426dd00-dfd9-11ea-97aa-6d980b72aad8.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
