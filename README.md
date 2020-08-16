@@ -62,10 +62,9 @@ obtained, percentile, accuracy, attempted and report analysis.
 #If student achieve more than #75%, will get #Certificate of Achievement by ExamHub.com
 ---------------------------------------------------------------------------------------------------------------------------
 
- <p align="center"> 
-    <img src="![Rakshit Shetty](https://user-images.githubusercontent.com/60310009/90329102-5d94c580-dfbf-11ea-8fbe-c8608d3daa90.jpg)" alt="Certificate">
- </p>
-
+<div align="center">
+  <img src="![Rakshit Shetty](https://user-images.githubusercontent.com/60310009/90329102-5d94c580-dfbf-11ea-8fbe-c8608d3daa90.jpg)" alt="Certificate">
+</div>
 
 
 
