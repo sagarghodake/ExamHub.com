@@ -13,6 +13,7 @@ This is to familiarize you with the project,
 #Other functionality: SERVLET (Controller Logic), JDBC (DB layer functions)
 
 #Accomplishment:
+
  Implemented exam system that can fire question randomly (used Collections method shuffle ()).
 
  Implemented a timer based exam system using JavaScript which will terminate the exam automatically after time expires e.g. 60 minutes and auto checking no manual interruption needed to declare result.
