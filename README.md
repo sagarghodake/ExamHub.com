@@ -1,14 +1,22 @@
 # ExamHub.com an Online Examination Platform
 This is to familiarize you with the project,
 #ExamHub.com an ONLINE #EXAMINATION PLATFORM: Basically a web application that provides cost-effective and scalable way to evaluate students reducing overall cost of operation.
+
 #TechnologyUsed:
+
 #Type: Dynamic Web Application
+
 #Front-End: HTML, CSS, JavaScript, JSP
+
 #Back-End: MySQL
+
 #Other functionality: SERVLET (Controller Logic), JDBC (DB layer functions)
+
 #Accomplishment:
  Implemented exam system that can fire question randomly (used Collections method shuffle ()).
+
  Implemented a timer based exam system using JavaScript which will terminate the exam automatically after time expires e.g. 60 minutes and auto checking no manual interruption needed to declare result.
+
 #All functionality i.e #CRUD operations implemented #DAOPattern using #JDBC to connect#SingletonPattern) java #Application & #Database(Backend)
 
 #mysql #opentowork #javascript #css #javadeveloper #developer #javaproject #fresher #softwaredeveloper #examination #project
