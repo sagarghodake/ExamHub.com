@@ -1,5 +1,4 @@
-# ExamHub.com
-ExamHub.com an Online Examination Platform
+# ExamHub.com an Online Examination Platform
 This is to familiarize you with the project,
 #ExamHub.com an ONLINE #EXAMINATION PLATFORM: Basically a web application that provides cost-effective and scalable way to evaluate students reducing overall cost of operation.
 #TechnologyUsed:
