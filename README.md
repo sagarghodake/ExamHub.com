@@ -68,7 +68,7 @@ obtained, percentile, accuracy, attempted and report analysis.
 ---------------------------------------------------------------------------------------------------------------------------
 #If student achieve more than #75%, will get #Certificate of Achievement by ExamHub.com
 ---------------------------------------------------------------------------------------------------------------------------
-<img src="![Rakshit Shetty](https://user-images.githubusercontent.com/60310009/90329102-5d94c580-dfbf-11ea-8fbe-c8608d3daa90.jpg)" alt="Certificate">
+![Rakshit Shetty](https://user-images.githubusercontent.com/60310009/90329102-5d94c580-dfbf-11ea-8fbe-c8608d3daa90.jpg)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -102,8 +102,6 @@ Add questions,
 <h1>Report Generation</h1>
 ---------------------------------------------------------------------------------------------------------------------------
 
-<h3>Student Report</h3>
----------------------------------------------------------------------------------------------------------------------------
 ![studentReport](https://user-images.githubusercontent.com/60310009/90332302-524e9380-dfd9-11ea-99af-219533ab5c98.jpg)
 ![Screenshot (301)](https://user-images.githubusercontent.com/60310009/90332321-7e6a1480-dfd9-11ea-9a31-17622b617bc5.png)
 ![categoryReport](https://user-images.githubusercontent.com/60310009/90332308-567ab100-dfd9-11ea-8874-79ef3a663cc1.jpg)
