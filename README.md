@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6LPYVpCZfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # ExamHub.com an Online Examination Platform
 This is to familiarize you with the project,
 #ExamHub.com an ONLINE #EXAMINATION PLATFORM: Basically a web application that provides cost-effective and scalable way to evaluate students reducing overall cost of operation.
