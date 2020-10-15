@@ -27,6 +27,8 @@ This is to familiarize you with the project,
 ---------------------------------------------------------------------------------------------------------------------------
 <h1>User Panel</h1>
 ---------------------------------------------------------------------------------------------------------------------------
+![examhub](https://user-images.githubusercontent.com/60310009/96165742-a7a41400-0f3a-11eb-93a4-8a0e8bbc25d0.gif)
+
 
  ExamHub.com project belongs to the online examination domain. Basically a dynamic web application. 
  ExamHub.com is cost-effective, scalable way to convert traditional pen and paper based exams to online and paperless mode. 
@@ -75,6 +77,8 @@ obtained, percentile, accuracy, attempted and report analysis.
 <h1>Admin Panel</h1>
 ---------------------------------------------------------------------------------------------------------------------------
 
+
+![adminExam](https://user-images.githubusercontent.com/60310009/96164976-a58d8580-0f39-11eb-8fa6-902ae050724b.gif)
 
 Admin Login page and Admin dashboard,
 ---------------------------------------------------------------------------------------------------------------------------
