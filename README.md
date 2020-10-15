@@ -27,7 +27,8 @@ This is to familiarize you with the project,
 ---------------------------------------------------------------------------------------------------------------------------
 <h1>User Panel</h1>
 ---------------------------------------------------------------------------------------------------------------------------
-![examhub](https://user-images.githubusercontent.com/60310009/96165742-a7a41400-0f3a-11eb-93a4-8a0e8bbc25d0.gif)
+![examhub](https://user-images.githubusercontent.com/60310009/96166065-1a14f400-0f3b-11eb-92b0-fa101483e361.gif)
+
 
 
  ExamHub.com project belongs to the online examination domain. Basically a dynamic web application. 
