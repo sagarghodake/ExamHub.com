@@ -1,4 +1,4 @@
-\<%@page import="java.util.*"%>
+<%@page import="java.util.*"%>
 <%@page import="com.examhub.pojo.*"%>
 <%@page import="com.examhub.impl.*"%>
 <!DOCTYPE html>
